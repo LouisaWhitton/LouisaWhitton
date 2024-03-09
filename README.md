@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LouisaWhitton
 - 👀 I’m interested in all things sql
-- 🌱 I’m currently learning r and python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
